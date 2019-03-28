@@ -28,3 +28,6 @@ Some "interesting" things about me:
 3. I am a programming hobbyist
 4. I appreciate basically all things nerdy
 5. I am proactive in the community to create a better world for us and our progeny
+
+## I am excited to start this journey with you!
+<a href="https://imgflip.com/i/2x7j08"><img src="https://i.imgflip.com/2x7j08.jpg" title="made at imgflip.com"/></a>
