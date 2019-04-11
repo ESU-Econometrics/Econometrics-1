@@ -1,0 +1,30 @@
+---
+title: "Homework 1 Key"
+output:
+  html_notebook: default
+  html_document: default
+---
+
+## Learning objectives
+In this homework, you will demonstrate how to change working directories, import experimental data, create summary tables, use R-packages, and use/manipulate data tables.
+
+# Part 1: Set Up
+
+1. Change the working directory to a local folder (folder on your computer) where you want to save your homework.
+```{r}
+setwd("C:/Users/rselby/OneDrive - emporia.edu/GitHub/Microeconometrics/Homeworks")
+
+```
+
+2. Import the data set, webstar.dta:  [http://economics.mit.edu/faculty/angrist/data1/mhe/krueger](http://economics.mit.edu/faculty/angrist/data1/mhe/krueger)
+```{r}
+library(foreign)
+webstar <- read.dta("http://economics.mit.edu/files/3827")
+head(webstar)
+```
+
+
+```{r , results='asis'}
+library(stargazer)
+stargazer(webstar,type = 'html')
+```

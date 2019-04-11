@@ -1,0 +1,62 @@
+---
+title: "Homework 1"
+author: "Enter Name Here"
+date: 'Due: May 26th @ 11:59 PM CST'
+output:
+  html_notebook: default
+  html_document: default
+---
+
+## Learning objectives
+In this homework, you will demonstrate how to change working directories, import experimental data, create summary tables, use R-packages, and use/manipulate data tables.
+
+# Part 1: Set Up
+
+1. Change the working directory to a local folder (folder on your computer) where you want to save your homework.
+```{r}
+# Insert code here
+
+```
+
+2. Import the data set, webstar.dta:  [http://economics.mit.edu/faculty/angrist/data1/mhe/krueger](http://economics.mit.edu/faculty/angrist/data1/mhe/krueger)
+```{r}
+# Insert code here
+
+```
+
+*Hint: .dta is Stata data format*
+
+Names and descriptions of variabes can be found in webstarinfo.txt. 
+
+3. Explore this study:
+[https://www.aft.org/sites/default/files/periodicals/STARSummer99.pdf](https://www.aft.org/sites/default/files/periodicals/STARSummer99.pdf). Give a brief summary (1-2 paragraphs) of the experiment and why it was performed. 
+
+- Insert discussion here
+
+# Part 2: Creating a summary table
+
+4. Create a nice table that shows the proportion of students who:
+- are in a small class
+- have a regular/aid in class
+- are white or caucasian
+- receive free lunch 
+- have a non-white teacher
+- have a teacher with a Master's degree
+
+*Hint: you should consider using the stargazer package*  [https://cran.r-project.org/web/packages/stargazer/vignettes/stargazer.pdf](https://cran.r-project.org/web/packages/stargazer/vignettes/stargazer.pdf)
+
+```{r }
+# Insert code here
+
+```
+# Part 3: Creating a subset of the data
+
+5. Subset the data so that only the variables discussed in webstarinfo.txt are kept. Rename this data set and save it to your local file. 
+
+```{r}
+# Insert code here
+
+```
+
+
+

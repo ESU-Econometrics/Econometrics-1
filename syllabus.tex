@@ -1,0 +1,242 @@
+\documentclass[]{tufte-handout}
+
+% ams
+\usepackage{amssymb,amsmath}
+
+\usepackage{ifxetex,ifluatex}
+\usepackage{fixltx2e} % provides \textsubscript
+\ifnum 0\ifxetex 1\fi\ifluatex 1\fi=0 % if pdftex
+  \usepackage[T1]{fontenc}
+  \usepackage[utf8]{inputenc}
+\else % if luatex or xelatex
+  \makeatletter
+  \@ifpackageloaded{fontspec}{}{\usepackage{fontspec}}
+  \makeatother
+  \defaultfontfeatures{Ligatures=TeX,Scale=MatchLowercase}
+  \makeatletter
+  \@ifpackageloaded{soul}{
+     \renewcommand\allcapsspacing[1]{{\addfontfeature{LetterSpace=15}#1}}
+     \renewcommand\smallcapsspacing[1]{{\addfontfeature{LetterSpace=10}#1}}
+   }{}
+  \makeatother
+
+\fi
+
+% graphix
+\usepackage{graphicx}
+\setkeys{Gin}{width=\linewidth,totalheight=\textheight,keepaspectratio}
+
+% booktabs
+\usepackage{booktabs}
+
+% url
+\usepackage{url}
+
+% hyperref
+\usepackage{hyperref}
+
+% units.
+\usepackage{units}
+
+
+\setcounter{secnumdepth}{-1}
+
+% citations
+
+% pandoc syntax highlighting
+
+% longtable
+
+% multiplecol
+\usepackage{multicol}
+
+% strikeout
+\usepackage[normalem]{ulem}
+
+% morefloats
+\usepackage{morefloats}
+
+
+% tightlist macro required by pandoc >= 1.14
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+
+% title / author / date
+\title{EC 710 Syllabus}
+\author{Dr.~Bekah Selby}
+\date{Summer 2019}
+
+
+\begin{document}
+
+\maketitle
+
+
+
+
+\hypertarget{description}{%
+\section{Description}\label{description}}
+
+This course presents the theory and tools that applied economists use to
+answer complex questions in microeconomics. This is one of two
+econometrics courses that satisfy the requirements for the MS
+Informatics - Quantitative Economics Concentration. This course is held
+100\% online with the following structure:
+
+\begin{itemize}
+\tightlist
+\item
+  \textbf{Monday-Thursday}: Self-paced, module-based learning. You will
+  complete modules by submitting assignments. Online XA section students
+  must complete at least two (2) discussion board assignments weekly.
+  This will count for the participation part of the grade.
+\item
+  \textbf{Friday}: A 1-hour live webinar with Professor Selby.
+  Attendance is \textbf{required} for individuals enrolled in the
+  on-campus section (A), which will count for the participation part of
+  the grade. This time may be used for elaboration, tutoring, questions,
+  and discussion.
+\end{itemize}
+
+\noindent The focus in this class will be to prepare students to examine
+microeconomic data, formulate models, and provide analysis of real-world
+phenomena.
+
+\subsection*{Prerequisites}
+
+A background in economics, statistics, and calculus is expected.
+
+\subsection*{Graduate Textbook}
+
+The (\textbf{Required}) textbook for this course will be:
+
+\begin{itemize}
+    \item ``Mostly Harmless Econometrics'' by Joshua D. Angrist and J{\"o}rn-Steffen Pischke
+    ISBN 978-0691120355
+    \item ``R Markdown: The Definitive Guide'' Yihui Xie, J. J. Allaire, Garrett Grolemund, \url{https://bookdown.org/yihui/rmarkdown/}
+\end{itemize}
+
+\noindent Other recommended supplements:
+
+\begin{itemize}
+
+    \item ``Mastering 'Metrics'' by Joshua D. Angrist and J{\"o}rn-Steffen Pischke
+    ISBN 978-0691152844
+    \item ``A Guide to Econometrics'' by Peter Kennedy ISBN  978-1405182577
+\end{itemize}
+
+\subsection*{Undergraduate Textbook}
+
+The (\textbf{Required}) textbook for this course will be:
+
+\begin{itemize}
+    \item ``Mastering 'Metrics'' by Joshua D. Angrist and J{\"o}rn-Steffen Pischke
+    ISBN 978-0691152844
+\end{itemize}
+
+\noindent Other recommended supplements:
+
+\begin{itemize}
+
+    \item ``Mostly Harmless Econometrics'' by Joshua D. Angrist and J{\"o}rn-Steffen Pischke
+    ISBN 978-0691120355
+    \item ``A Guide to Econometrics'' by Peter Kennedy ISBN  978-1405182577
+\end{itemize}
+
+\subsection*{Technology}
+\begin{itemize}
+    \item R \url{https://www.r-project.org/}
+    \item R-Studio \url{https://www.rstudio.com/products/rstudio/download/}
+\end{itemize}
+
+\subsection*{Assessment}
+
+Your grade in this course will be determined by achievement in the
+following categories:
+
+\begin{enumerate}
+    \item Module Homework 
+    \item Participation 
+    \item Replication Projects
+\end{enumerate}
+
+\subsection*{Grade Criteria}
+\begin{center}
+    \begin{tabular}{cc}
+        \textbf{Letter Grade} & \textbf{Overall Grade} \\ \hline 
+        A & 89.50-100\% \\
+        B & 79.50-89.49\% \\
+        C & 69.50-79.49\% \\
+        D & 59.50-69.49\% \\
+        F & 0-59.49\% \\
+    \end{tabular}
+\end{center}
+
+\subsection*{Policy on Late Work}
+
+I do not accept late work in this class except under the most
+extraordinary of circumstances. If you know you will be gone for an
+assignment or class, please make arrangements to have the work done
+prior to your absence. I will happily accept early submissions on any
+due work.
+
+\subsection*{Attendance}
+
+Attendance is measured in participation during discussions, contact with
+professor, and interactions with peers. As with most mathematically
+intensive courses, it is vital for success. You are responsible for
+obtaining all material in lectures, discussions, and assignments. You
+are required to turn in all written work on time. Missing an assignment,
+activity, or a paper will lower your grade.
+
+\subsection*{Student Learning Outcomes}
+
+Upon completion of this course, students will be able to do the
+following:
+
+\begin{enumerate}
+    \item Apply the theory behind linear regression analysis, including interpretation of estimated coefficients and goodness of fit.
+    \item Develop models appropriate for data and questions.
+    \item Illustrate results from panel-data models in a professional and clear way.
+    \item Utilize data-analysis software to perform summary analysis and linear regression analysis.
+    \item Demonstrate mastery of econometric analysis in an academic research replications.
+    
+\end{enumerate}
+
+\subsection*{Academic Dishonesty}
+
+Academic dishonesty includes, but is not limited to, acts of cheating
+and plagiarism. Such acts will not be tolerated in this course and will
+be reported. Consequences for academic dishonesty include an automatic
+fail (F) in the course.
+
+\subsection*{Student Accommodations Statement}
+
+Emporia State University will make reasonable accommodations for persons
+with documented disabilities. Students need to contact the Director of
+Student Accessibility and Support Services, Stephanie Adams, Plumb Hall
+106, and the professor as early in the semester as possible to ensure
+that classroom and academic accommodations are implemented in a timely
+fashion. All communication between students, Student Accessibility and
+Support Services, and the professor will be strictly confidential.
+
+\subsection*{Diversity Statement }
+
+Emporia State University supports an inclusive learning environment
+where diversity and individual differences are understood, respected,
+appreciated, and recognized as a source of strength. We expect that
+students and faculty at Emporia State will respect differences and
+demonstrate diligence in understanding how other people's perspectives,
+behaviors, and world-views may be different from their own.
+
+If there are aspects of the design, instruction, and/or your experiences
+within this course that result in barriers to your inclusion or accurate
+assessment of achievement, please notify the unit head (Department Chair
+or equivalent) as soon as possible, and/or contact the office of the
+Assistant Dean of Students for Diversity, Equity \& Inclusion.
+
+\textbackslash{}end\{document\}
+
+
+
+\end{document}

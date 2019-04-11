@@ -1,0 +1,15 @@
+"newid"   student id variable
+"ssex"     student sex
+"srace"    student race
+"sbirthq"  student birth quarter
+"sbirthy"  student birth year
+
+For the following variables, fill in _ with k, 1, 2, 3 (kindergarten, 1st-3rd)
+star_          "STAR in _ "
+cltype_        "class type in _ "
+treadss_       "total reading score _" 
+tmathss_       "total math score _"
+schtype_       "teachers highest degree _"
+totexp_        "teachers total experience _"
+trace_         "teachers race in _"
+ses_           "free lunch, reduced lunch _"
