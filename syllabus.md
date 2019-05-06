@@ -17,8 +17,6 @@ This course presents the theory and tools that applied economists use to answer 
 
 The focus in this class will be to prepare students to examine microeconomic data, formulate models, and provide analysis of real-world phenomena.
 
-We will do this through the lens of R, a statistical open-source software. Ability to program in R is in high demand in our current labor market. Previous programming knowledge is not assumed.
-
 Prerequisites
 =============
 
@@ -92,12 +90,7 @@ Attendance is measured in participation during discussions, contact with profess
 Student Learning Outcomes
 =========================
 
-Upon completion of this course, students will be able to do the following:
-1. Apply the theory behind linear regression analysis, including interpretation of estimated coefficients and goodness of fit.
-2. Develop models appropriate for data and questions.
-3. Illustrate results from panel-data models in a professional and clear way.
-4. Utilize the R statistical software to perform summary analysis and linear regression analysis.
-5. Demonstrate mastery of econometric analysis in an academic research replications.
+Upon completion of this course, students will be able to do the following: 1. pply the theory behind linear regression analysis, including interpretation of estimated coefficients and goodness of fit. 2. Develop models appropriate for data and questions. 3. Illustrate results from panel-data models in a professional and clear way. 4. Utilize data-analysis software to perform summary analysis and linear regression analysis. 5. Demonstrate mastery of econometric analysis in an academic research replications.
 
 Academic Dishonesty
 ===================
