@@ -2,9 +2,7 @@
 title: "EC 710 - Microeconometrics - Syllabus"
 author: "Professor: Dr. Bekah Selby"
 date: "Term: Summer 2019"
-output:
-  md_document:
-    variant: markdown_github
+output: html_document
 ---
 
 # Contact Information 
