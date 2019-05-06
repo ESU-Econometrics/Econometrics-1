@@ -1,4 +1,4 @@
-[Syllabus Download](syllabus.html)
+[Syllabus Download](https://htmlpreview.github.io/?https://github.com/drbjselby/Microeconometrics/blob/master/syllabus.html)
 
 Contact Information
 ===================
