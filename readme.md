@@ -13,7 +13,7 @@ Description
 This course presents the theory and tools that applied economists use to answer complex questions in microeconomics. This is one of two econometrics courses that satisfy the requirements for the MS Informatics - Quantitative Economics Concentration. This course is held 100% online with the following structure:
 
 -   **Monday-Thursday**: Self-paced, module-based learning. You will complete modules by submitting assignments. Online XA section students must complete at least two (2) discussion board assignments weekly. This will count for the participation part of the grade.
--   **Friday**: A 1-hour live webinar with Professor Selby. Attendance is **required** for individuals enrolled in the on-campus section (A), which will count for the participation part of the grade. This time may be used for elaboration, tutoring, questions, and discussion.
+-   **Friday**: A 1-hour live webinar with Professor Selby. Attendance is **required** for individuals enrolled in the on-campus  or undergraduate sections (A or ZA), which will count for the participation part of the grade. This time may be used for elaboration, tutoring, questions, and discussion.
 
 The focus in this class will be to prepare students to examine microeconomic data, formulate models, and provide analysis of real-world phenomena.
 
