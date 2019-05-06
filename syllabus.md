@@ -1,3 +1,5 @@
+[Syllabus Download](syllabus.html)
+
 Contact Information
 ===================
 
