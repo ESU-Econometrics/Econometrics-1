@@ -13,9 +13,11 @@ Description
 This course presents the theory and tools that applied economists use to answer complex questions in microeconomics. This is one of two econometrics courses that satisfy the requirements for the MS Informatics - Quantitative Economics Concentration. This course is held 100% online with the following structure:
 
 -   **Monday-Thursday**: Self-paced, module-based learning. You will complete modules by submitting assignments. Online XA section students must complete at least two (2) discussion board assignments weekly. This will count for the participation part of the grade.
--   **Friday**: A 1-hour live webinar with Professor Selby. Attendance is **required** for individuals enrolled in the on-campus section (A), which will count for the participation part of the grade. This time may be used for elaboration, tutoring, questions, and discussion.
+-   **Friday**: A 1-hour live webinar with Professor Selby. Attendance is **required** for individuals enrolled in the on-campus or undergraduate sections (A or ZA), which will count for the participation part of the grade. This time may be used for elaboration, tutoring, questions, and discussion.
 
 The focus in this class will be to prepare students to examine microeconomic data, formulate models, and provide analysis of real-world phenomena.
+
+We will do this through the lens of R, a statistical open-source software. Ability to program in R is in high demand in our current labor market. Previous programming knowledge is not assumed.
 
 Prerequisites
 =============
@@ -90,7 +92,13 @@ Attendance is measured in participation during discussions, contact with profess
 Student Learning Outcomes
 =========================
 
-Upon completion of this course, students will be able to do the following: 1. pply the theory behind linear regression analysis, including interpretation of estimated coefficients and goodness of fit. 2. Develop models appropriate for data and questions. 3. Illustrate results from panel-data models in a professional and clear way. 4. Utilize data-analysis software to perform summary analysis and linear regression analysis. 5. Demonstrate mastery of econometric analysis in an academic research replications.
+Upon completion of this course, students will be able to do the following:
+
+1.  Apply the theory behind linear regression analysis, including interpretation of estimated coefficients and goodness of fit.
+2.  Develop models appropriate for data and questions.
+3.  Illustrate results from panel-data models in a professional and clear way.
+4.  Utilize the R statistical software to perform summary analysis and linear regression analysis.
+5.  Demonstrate mastery of econometric analysis in an academic research replications.
 
 Academic Dishonesty
 ===================
