@@ -2,9 +2,7 @@
 title: "EC 710 - Microeconometrics - Syllabus"
 author: "Professor: Dr. Bekah Selby"
 date: "Term: Summer 2019"
-output:
-  tufte::tufte_html: default
-  tufte::tufte_handout: default
+output: html_document 
 ---
 
 # Contact Information 
