@@ -16,28 +16,29 @@ output: html_document
 # Description
 This course presents the theory and tools that applied economists use to answer complex questions in microeconomics. This is one of two econometrics courses that satisfy the requirements for the MS Informatics - Quantitative Economics Concentration. This course is held 100\% online with the following structure: 
 
-- **Monday-Thursday**: Self-paced, module-based learning. You will complete modules by submitting assignments. Online XA section students must complete at least two (2) discussion board assignments weekly. This will count for the participation part of the grade. 
-- **Friday**: A 1-hour live webinar with Professor Selby. Attendance is **required** for individuals enrolled in the on-campus  or undergraduate sections (A or ZA), which will count for the participation part of the grade. This time may be used for elaboration, tutoring, questions, and discussion.
+- **On Your Own**: Self-paced, reading and module-based learning. You will complete modules by submitting assignments. Some tutorials will be made available. Discussion board participation is required *before* the live conference. 
+- **Live Conferences**: I will be hosting two *(2)* 1-2 hour live conferences every week. This time may be used for elaboration, tutoring, questions, and discussion. You will need to submit discussion content 12 hours before the Live Conference.
 
 The focus in this class will be to prepare students to examine microeconomic data, formulate models, and provide analysis of real-world phenomena.
 
 We will do this through the lens of R, a statistical open-source software. Ability to program in R is in high demand in our current labor market. Previous programming knowledge is not assumed.
 
 # Prerequisites
-A background in economics, statistics, and calculus is expected. 
+A background in economics, probability & statistics, and calculus is expected. 
 
 # Textbooks:
 ## Graduate Textbooks
 
 The (**Required**) textbook for this course will be:
 
-- "Mostly Harmless Econometrics"" by Joshua D. Angrist and J{\"o}rn-Steffen Pischke
+- "Econometrics" by Bruce Hansen [Link](https://www.ssc.wisc.edu/~bhansen/econometrics/) 
+- "Mostly Harmless Econometrics"" by Joshua D. Angrist and J&ouml;rn-Steffen Pischke
 	ISBN 978-0691120355
 - "R Markdown: The Definitive Guide" Yihui Xie, J. J. Allaire, Garrett Grolemund, [Link](https://bookdown.org/yihui/rmarkdown/)
 
 Other recommended supplements: 
 
-- "Mastering 'Metrics" by Joshua D. Angrist and J{\"o}rn-Steffen Pischke
+- "Mastering 'Metrics" by Joshua D. Angrist and J&ouml;rn-Steffen Pischke
 	ISBN 978-0691152844
 - "A Guide to Econometrics" by Peter Kennedy ISBN  978-1405182577
 
@@ -45,13 +46,13 @@ Other recommended supplements:
 
 The (**required**) textbook for this course will be:
 
-- "Mastering 'Metrics" by Joshua D. Angrist and J{\"o}rn-Steffen Pischke
+- "Mastering 'Metrics" by Joshua D. Angrist and J$ouml;rn-Steffen Pischke
 	ISBN 978-0691152844
 - "R Markdown: The Definitive Guide" Yihui Xie, J. J. Allaire, Garrett Grolemund, [Link](https://bookdown.org/yihui/rmarkdown/)
 
 Other recommended supplements: 
 
-- "Mostly Harmless Econometrics"" by Joshua D. Angrist and J{\"o}rn-Steffen Pischke
+- "Mostly Harmless Econometrics"" by Joshua D. Angrist and J&ouml;rn-Steffen Pischke
 	ISBN 978-0691120355
 - "A Guide to Econometrics" by Peter Kennedy ISBN  978-1405182577
 
@@ -63,9 +64,10 @@ Other recommended supplements:
 # Assessment
 Your grade in this course will be determined by achievement in the following categories:
 
-1. Module Homework (40%)
-2. Participation(40%)
-3. Replication Projects (20%)
+1. Reading Homework (20%)
+2. Other Homework (40%)
+3. Discussion Board Posts (10%)
+4. Replication Projects (30%)
 
 
 # Grade Criteria
