@@ -41,6 +41,7 @@ Other recommended supplements:
 
 - "Mastering 'Metrics" by Joshua D. Angrist and J&ouml;rn-Steffen Pischke
 	ISBN 978-0691152844
+- "Introduction to Econometrics" by Stock and Watson [Amazon](https://www.amazon.com/Introduction-Econometrics-Pearson-Economics-James-ebook/dp/B00XIGZW9W)
 - "A Guide to Econometrics" by Peter Kennedy ISBN  978-1405182577
 
 # Technology
