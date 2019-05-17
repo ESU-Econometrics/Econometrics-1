@@ -11,7 +11,7 @@ output: html_document
 - Office: SH 243
 - Office #: 620-341-5645
 - Email: [rselby@emporia.edu](mailto:rselby@emporia.edu)
-- Office Hours: On Zoom, Fridays @ 3pm
+- Office Hours: On Zoom, Fridays @ 3 pm (drop in) or ask scheduled
 
 # Description
 This course presents the theory and tools that applied economists use to answer complex questions in microeconomics. This is one of two econometrics courses that satisfy the requirements for the MS Informatics - Quantitative Economics Concentration. This course is held 100\% online with the following structure:
