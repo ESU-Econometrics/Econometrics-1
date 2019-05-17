@@ -2,9 +2,7 @@
 title: "EC 710 - Microeconometrics - Syllabus"
 author: "Professor: Dr. Bekah Selby"
 date: "Term: Summer 2019"
-output:
-  tufte::tufte_html: default
-  tufte::tufte_handout: default
+output: html_document 
 ---
 
 # Contact Information 
@@ -32,6 +30,8 @@ A background in economics, statistics, and calculus is expected.
 
 The (**Required**) textbook for this course will be:
 
+- "CAUSAL INFERENCE:THE MIXTAPE (V. 1. 7 )" by Scott Cunningham [Link](http://scunning.com/cunningham_mixtape.pdf)
+- "Introduction to Econometrics with R" by Hank, Arnold, Gerber, and Schmelzer [Link](https://www.econometrics-with-r.org/index.html) 
 - "Mostly Harmless Econometrics"" by Joshua D. Angrist and J{\"o}rn-Steffen Pischke
 	ISBN 978-0691120355
 - "R Markdown: The Definitive Guide" Yihui Xie, J. J. Allaire, Garrett Grolemund, [Link](https://bookdown.org/yihui/rmarkdown/)
@@ -40,20 +40,6 @@ Other recommended supplements:
 
 - "Mastering 'Metrics" by Joshua D. Angrist and J{\"o}rn-Steffen Pischke
 	ISBN 978-0691152844
-- "A Guide to Econometrics" by Peter Kennedy ISBN  978-1405182577
-
-## Undergraduate Textbooks
-
-The (**required**) textbook for this course will be:
-
-- "Mastering 'Metrics" by Joshua D. Angrist and J{\"o}rn-Steffen Pischke
-	ISBN 978-0691152844
-- "R Markdown: The Definitive Guide" Yihui Xie, J. J. Allaire, Garrett Grolemund, [Link](https://bookdown.org/yihui/rmarkdown/)
-
-Other recommended supplements: 
-
-- "Mostly Harmless Econometrics"" by Joshua D. Angrist and J{\"o}rn-Steffen Pischke
-	ISBN 978-0691120355
 - "A Guide to Econometrics" by Peter Kennedy ISBN  978-1405182577
 
 # Technology
@@ -64,9 +50,10 @@ Other recommended supplements:
 # Assessment
 Your grade in this course will be determined by achievement in the following categories:
 
-1. Module Homework (40%)
-2. Participation(40%)
-3. Replication Projects (20%)
+1. Reading Homework (20%)
+2. Other Homework (40%)
+3. Discussion Board Posts (10%)
+3. Replication Projects (30%)
 
 
 # Grade Criteria
